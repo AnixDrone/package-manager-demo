@@ -1,0 +1,8 @@
+/virtual_env/
+super_simple_app/.eggs
+super_simple_app/build
+super_simple_app/dist
+super_simple_app/food_fetcher.egg-info
+.envrc
+.python-version
+
