@@ -5,4 +5,4 @@ super_simple_app/dist
 super_simple_app/food_fetcher.egg-info
 .envrc
 .python-version
-
+__pycache__
