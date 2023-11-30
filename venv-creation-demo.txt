@@ -1,4 +1,4 @@
-// create virtual environment
+# create virtual environment
 python -m venv virtual_env
 source virtual_env/bin/activate
 
